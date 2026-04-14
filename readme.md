@@ -53,5 +53,5 @@ This script is provided as-is. Modification for personal server use is permitted
 ---
 
 <p align="center">
-  <b>Developed with ❤️ for the FiveM Community</b>
+  <b>Developed by Kova Development</b>
 </p>
