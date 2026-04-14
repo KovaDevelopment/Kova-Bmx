@@ -1,0 +1,3 @@
+Config = {
+    BicycleModel = 'bmx',
+}
