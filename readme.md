@@ -9,7 +9,7 @@
 - ⚡ **Highly Optimized**: 0.00ms idle usage / 0.01ms while interacting.
 
 ---
-
+## [PREVIEW](https://streamable.com/ntg40k)
 ## 🏗️ Requirements
 To use this script, your server must be running:
 - [qb-core](https://github.com/qbcore-framework/qb-core)
